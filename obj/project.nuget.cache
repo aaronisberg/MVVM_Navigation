@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tBPCiMWSWTrizcpwpuoVE0B6W8/7DdrwGNss85opDaDH/R1SFS1mpit/78OfMEq+YtKGN4WHwLsQh53t2cIFGA==",
+  "success": true,
+  "projectFilePath": "C:\\Aa_User_Data\\Dev\\NavigationTutorial\\NavigationBar\\NavigationBar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AaronI\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
